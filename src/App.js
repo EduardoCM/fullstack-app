@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         - Welcome Java Full Stack Developer - UPA - Codigo Rupestre Space Native
+         - Welcome Java Full Stack Developer - UPA - Codigo Rupestre Space Native - Eduardo Castillo Mendoza -
         </p>
         <a
           className="App-link"
